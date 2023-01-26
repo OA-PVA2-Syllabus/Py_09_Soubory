@@ -5,7 +5,7 @@
 Vytvořte program, který prečte obsah celého souboru `lorem.txt`
 
 ### 2
-Vytvořte program, který přidá do souboru lorem.txt na konec větu "Nechť již hříšné saxofony ďáblů rozezvučí síň úděsnými tóny waltzu, tanga a quickstepu."
+Vytvořte program, který přidá do souboru `lorem.txt` na konec větu `Nechť již hříšné saxofony ďáblů rozezvučí síň úděsnými tóny waltzu, tanga a quickstepu.`
 
 ### 3
 Vytvořte nový soubor s názvem `soubor.txt`, který bude obsahovat řádky 1-10
